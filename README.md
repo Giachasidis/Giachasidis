@@ -1,16 +1,25 @@
 ## Hi, I'm Marios!
 
-I'm a 17-year-old self-taught developer with a strong focus on building robust, scalable systems. I specialize in JavaScript, designing clean, modular architectures and performant applications for web, gaming, and automation ecosystems with precision and purpose.
+I'm a 17 years old developer from Greece with an unwavering passion for computer science and software engineering. My journey began at age 13, diving headfirst into the world of computing, and I've been relentlessly expanding my technical arsenal ever since. Currently preparing for my CS university studies, I approach every project with a production-grade mindset, emphasizing on scalability and maintainability.
 
-### Core Technologies
+## Technical Proficiencies
 
-| Area | Technologies | Focus |
-|------|--------------|-------|
-| **Discord Bots** | discord.js, Javascript | Event-driven architectures, modular commands |
-| **FiveM Scripting** | Lua, HTML, Javascript | Server-side logic, resource optimization |
-| **Web Applications** | Next.js, TypeScript, Tailwind CSS | Performance, Responsive UI, Security |
+### Core Stack
+- **JavaScript/TypeScript** — Primary language
+- **Next.js** — App router, server components
+- **React** — Hooks, context, component architecture
+- **Tailwind CSS** — Utility-first styling
 
-### GitHub Statistics
+### Systems & Automation
+- **Discord.js** — Discord Bot Scripting (Expert)
+- **Lua** — FiveM Scripting (Intermediate)
+- **Java** — Minecraft Plugin Development (Beginner)
+
+### DevOps & Tooling
+- **Git/GitHub** — Version control, PRs
+- **PocketBase/Supabase** — BaaS, PostgreSQL, realtime, auth
+
+## GitHub Analytics
 
 <table>
   <tr>
