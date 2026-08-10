@@ -2,11 +2,6 @@
 
 I'm a 17-year-old self-taught developer with a strong focus on building robust, scalable systems. I specialize in JavaScript, designing clean, modular architectures and performant applications for web, gaming, and automation ecosystems with precision and purpose.
 
-### What I Bring to the Table
-
-- **System Architecture** – Writing maintainable, testable code with emphasis on design, security, and long-term scalability.
-- **Developer Experience** – Building intuitive APIs and SDKs with clear documentation and seamless integration paths.
-
 ### Core Technologies
 
 | Area | Technologies | Focus |
