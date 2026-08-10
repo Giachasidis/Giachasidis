@@ -1,6 +1,6 @@
 ## Hi, I'm Marios!
 
-I'm a 17 years old developer from Greece with an unwavering passion for computer science and software engineering. My journey began at age 13, diving headfirst into the world of computing, and I've been relentlessly expanding my technical arsenal ever since. Currently preparing for my CS university studies, I approach every project with a production-grade mindset, emphasizing on scalability and maintainability.
+I'm a 17 years old developer from Greece with an unwavering passion for computer science. My journey began at age 13, diving headfirst into the world of computing, and I've been relentlessly expanding my technical arsenal ever since. Currently preparing for my CS university studies, I approach every project with a production-grade mindset, emphasizing on scalability and maintainability.
 
 ## Technical Proficiencies
 
