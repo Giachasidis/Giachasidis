@@ -15,10 +15,6 @@ I'm a 17-year-old developer from Greece, currently preparing for university stud
 - **Lua** — FiveM Scripting (Intermediate)
 - **Java** — Minecraft Plugin Development (Beginner)
 
-### DevOps & Tooling
-- **Git/GitHub** — Version control, PRs
-- **PocketBase/Supabase** — BaaS, PostgreSQL, realtime, auth
-
 ## GitHub Analytics
 
 <table>
