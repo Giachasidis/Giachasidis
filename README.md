@@ -1,6 +1,6 @@
 ## Hi, I'm Marios!
 
-I'm a 17-year-old developer from Greece, currently preparing for university studies in Computer Science. I build production-grade applications with a focus on scalability and clean architecture.
+I'm a 17-year-old developer from Greece, currently preparing for university studies in Computer Science. I design and build production-grade applications with a strong focus on scalability, maintainability, and clean architecture.
 
 ## Technical Proficiencies
 
