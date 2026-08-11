@@ -19,7 +19,7 @@ I'm a 17-year-old developer from Greece, currently preparing for university stud
 
 <table>
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api?username=Giachasidis&show_icons=true&include_all_commits=true&theme=nord"/></td>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giachasidis&layout=compact&theme=nord" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=Giachasidis&show_icons=true&include_all_commits=true&theme=nord" width="400" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giachasidis&layout=compact&theme=nord" width="300" /></td>
   </tr>
 </table>
