@@ -19,7 +19,7 @@ I'm a 17-year-old developer from Greece, currently preparing for university stud
 
 <table>
   <tr>
-    <td><img src="https://github-statistics-liart.vercel.app/api?username=Giaxasidis&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" /></td>
-    <td><img src="https://github-statistics-liart.vercel.app/api/top-langs/?username=Giaxasidis&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=Giachasidis&show_icons=true&include_all_commits=true&theme=nord"/></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giachasidis&layout=compact&theme=nord" /></td>
   </tr>
 </table>
